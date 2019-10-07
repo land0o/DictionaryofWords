@@ -1,0 +1,11 @@
+C:\Users\marla\workspace\c#\DictionaryOfWords\bin\Debug\netcoreapp3.0\DictionaryOfWords.exe
+C:\Users\marla\workspace\c#\DictionaryOfWords\bin\Debug\netcoreapp3.0\DictionaryOfWords.deps.json
+C:\Users\marla\workspace\c#\DictionaryOfWords\bin\Debug\netcoreapp3.0\DictionaryOfWords.runtimeconfig.json
+C:\Users\marla\workspace\c#\DictionaryOfWords\bin\Debug\netcoreapp3.0\DictionaryOfWords.runtimeconfig.dev.json
+C:\Users\marla\workspace\c#\DictionaryOfWords\bin\Debug\netcoreapp3.0\DictionaryOfWords.dll
+C:\Users\marla\workspace\c#\DictionaryOfWords\bin\Debug\netcoreapp3.0\DictionaryOfWords.pdb
+C:\Users\marla\workspace\c#\DictionaryOfWords\obj\Debug\netcoreapp3.0\DictionaryOfWords.csprojAssemblyReference.cache
+C:\Users\marla\workspace\c#\DictionaryOfWords\obj\Debug\netcoreapp3.0\DictionaryOfWords.AssemblyInfoInputs.cache
+C:\Users\marla\workspace\c#\DictionaryOfWords\obj\Debug\netcoreapp3.0\DictionaryOfWords.AssemblyInfo.cs
+C:\Users\marla\workspace\c#\DictionaryOfWords\obj\Debug\netcoreapp3.0\DictionaryOfWords.dll
+C:\Users\marla\workspace\c#\DictionaryOfWords\obj\Debug\netcoreapp3.0\DictionaryOfWords.pdb
